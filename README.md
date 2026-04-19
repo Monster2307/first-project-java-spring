@@ -29,12 +29,12 @@ Method: GET
 Path: /
 
 Result: Shows a simple text message.
-![My App Screenshot](src/main/resources/static/images/result1.png)
+![Step 1 Screenshot](result1.png)
 
 Path: /greeting
 Result: Shows an HTML page with a name and a logo
 
-![My App Screenshot](src/main/resources/static/images/result2.png)
+![Step 2 Screenshot](result2.png)
 
 
 This project uses GET requests to fetch data.
