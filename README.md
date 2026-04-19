@@ -32,7 +32,7 @@ Result: Shows a simple text message.
 ![My App Screenshot](src/main/resources/static/images/result1.png)
 
 Path: /greeting
-Result: Shows an HTML page with a name and a logo 
+Result: Shows an HTML page with a name and a logo
 
 ![My App Screenshot](src/main/resources/static/images/result2.png)
 
